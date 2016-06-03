@@ -1,0 +1,4 @@
+symfonyapp:
+  build: ./
+  ports:
+    - "80"
